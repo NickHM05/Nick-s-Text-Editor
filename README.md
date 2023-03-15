@@ -16,6 +16,7 @@ npm i on each of the json files if there is no package lock on it. Download the 
 
 ## Usage
 run npm start in the terminal to connect it via localhost. 
+- https://mighty-citadel-04566.herokuapp.com/
 ## License 
   This application is licensed under [MIT](https://opensource.org/licenses/MIT) license. Click the link for license rights and limitations.
 ## Badges
